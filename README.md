@@ -5,7 +5,7 @@
 |-------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------|
 | [Анализ A/B-тестов](https://github.com/shvartzdev/pets/blob/main/AB-tests-requested.ipynb)                   | Статистический анализ проведённого A/B-теста                   | *pandas, numpy, scipy.stats, seaborn, matplotlib, requests* |
 | [EDA, ML](https://github.com/shvartzdev/pets/blob/main/hr_model.ipynb)                             | Исследовательский анализ (EDA) датасета и предсказание метрики | *pandas, numpy, scaling, regression*                        |
-| Анализ психологических исследований | Анализ психологических исследований на разные темы             | *pandas, numpy, seaborn, scipy.stats*                       |
+| [Анализ психологических исследований](https://github.com/shvartzdev/pets/blob/main/AB-psycho-tests.ipynb) | Анализ психологических исследований на разные темы             | *pandas, numpy, seaborn, scipy.stats*                       |
 
 
 ## Образование
