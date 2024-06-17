@@ -3,8 +3,8 @@
 ## Проекты
 | Название                            | Описание                                                       | Стек технологий                                             |
 |-------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------|
-| Анализ A/B-тестов                   | Статистический анализ проведённого A/B-теста                   | *pandas, numpy, scipy.stats, seaborn, matplotlib, requests* |
-| EDA, ML                             | Исследовательский анализ (EDA) датасета и предсказание метрики | *pandas, numpy, scaling, regression*                        |
+| ![Анализ A/B-тестов]([https://github.com/shvartzdev/pets/blob/main/AB-tests.ipynb])                   | Статистический анализ проведённого A/B-теста                   | *pandas, numpy, scipy.stats, seaborn, matplotlib, requests* |
+| ![EDA, ML]([https://github.com/shvartzdev/pets/blob/main/hr_model.ipynb])                             | Исследовательский анализ (EDA) датасета и предсказание метрики | *pandas, numpy, scaling, regression*                        |
 | Анализ психологических исследований | Анализ психологических исследований на разные темы             | *pandas, numpy, seaborn, scipy.stats*                       |
 
 
