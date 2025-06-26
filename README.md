@@ -8,8 +8,10 @@
 | Анализ психологических исследований | [Средний уровень IQ в зависимости от пола](https://github.com/shvartzdev/pet-projects/blob/main/AB-tests-psycho/EDA-N290.ipynb), [Оценка уровня тревожности подростков](https://github.com/shvartzdev/pet-projects/blob/main/AB-tests-psycho/AB-psycho-tests.ipynb) | *pandas, seaborn, scipy.stats*                       |
 
 ## Пет-проекты
-| [Часы работы для покупки](https://github.com/shvartzdev/buyfreak) | Телеграм-бот для расчёта времени работы, которое необходимо, чтобы заработать вводимую сумму | python, python-telegram-bot, sqlite3 |
 
+| Название               | Описание                                                                              | Стек технологий                          |
+|------------------------|---------------------------------------------------------------------------------------|-----------------------------------------|
+| [Часы работы для покупки](https://github.com/shvartzdev/buyfreak) | Телеграм-бот для расчёта времени работы, необходимого для покупки по зарплате и графику | *python, python-telegram-bot, sqlite3* |
 
 
 ## Образование
