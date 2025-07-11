@@ -3,7 +3,7 @@
 ## Проекты
 | Название                            | Описание                                                       | Стек технологий                                             |
 |-------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------|
-| [Парсинг Яндекс Метрики](https://github.com/shvartzdev/metricsLogsApi)                   | Простейший парсинг хитов и визитов из Яндекс Метрики с автоматическим обновлением раз в 24 часа                   | *docker, clickhouse, requests, tapi-yandex-metrika* |
+| [Парсинг Яндекс Метрики](https://github.com/shvartzdev/metricsLogsApi)                   | Простейший парсинг хитов и визитов из Яндекс Метрики и других источников с автоматическим обновлением раз в 24 часа                   | *docker, clickhouse, requests, tapi-yandex-metrika* |
 | [Маппинг разметки событий с параметрами в БД ](https://github.com/shvartzdev/jsonEater)                   | Класс для маппинга параметров разметки событий Яндекс Метрики в формате json с параметрами БД | *docker, yaml* |
 | [Анализ A/B-тестов](https://github.com/shvartzdev/pet-projects/blob/main/AB-tests-business/AB-tests-requested.ipynb)                   | Статистический анализ проведённого A/B-теста                   | *pandas, numpy, scipy.stats, seaborn, matplotlib, requests* |
 | [EDA, ML](https://github.com/shvartzdev/pet-projects/blob/main/ML-cases/hr_model.ipynb)                             | Исследовательский анализ (EDA) датасета и предсказание метрики | *pandas, numpy, scaling, regression*                        |
