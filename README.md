@@ -13,7 +13,8 @@
 
 | Название               | Описание                                                                              | Стек технологий                          |
 |------------------------|---------------------------------------------------------------------------------------|-----------------------------------------|
-| [Часы работы для покупки](https://github.com/shvartzdev/buyfreak) | Телеграм-бот для расчёта времени работы, необходимого для покупки по зарплате и графику | *python, python-telegram-bot, sqlite3* |
+| [BookGoblin](https://github.com/shvartzdev/bookgoblin) | Тг-бот для микроменеджмента домашней библиотеки (библиотека, to-read-list, to-buy-list, summary)  | *python, sqlite3, requests, aiogram* |
+| [Buyfreak](https://github.com/shvartzdev/buyfreak) | Телеграм-бот для расчёта времени работы, необходимого для покупки по зарплате и графику | *python, python-telegram-bot, sqlite3* |
 
 
 ## Образование
