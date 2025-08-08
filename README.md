@@ -9,7 +9,7 @@
 | [EDA, ML](https://github.com/shvartzdev/pet-projects/blob/main/ML-cases/hr_model.ipynb)                             | Исследовательский анализ (EDA) датасета и предсказание метрики | *pandas, numpy, scaling, regression*                        |
 | Анализ психологических исследований | [Средний уровень IQ в зависимости от пола](https://github.com/shvartzdev/pet-projects/blob/main/AB-tests-psycho/EDA-N290.ipynb), [Оценка уровня тревожности подростков](https://github.com/shvartzdev/pet-projects/blob/main/AB-tests-psycho/AB-psycho-tests.ipynb) | *pandas, seaborn, scipy.stats*                       |
 
-## Пет-проекты
+## Боты
 
 | Название               | Описание                                                                              | Стек технологий                          |
 |------------------------|---------------------------------------------------------------------------------------|-----------------------------------------|
